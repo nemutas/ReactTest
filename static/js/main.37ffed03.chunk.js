@@ -1,0 +1,2 @@
+(this["webpackJsonpupload-test"]=this["webpackJsonpupload-test"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);n(1);var s=n(3),c=n.n(s),o=(n(8),n(0)),r=function(){return Object(o.jsx)("div",{className:"App",children:Object(o.jsx)("h1",{children:"\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8"})})};c.a.render(Object(o.jsx)(r,{}),document.getElementById("root"))},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.37ffed03.chunk.js.map
